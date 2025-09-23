@@ -14,11 +14,18 @@ Proyek dibuat menggunakan berbagai tools: **Cisco Packet Tracer, GNS3, EVE-NG/PN
   - Script Python & Ansible untuk otomatisasi konfigurasi
 
 ## 📂 Struktur Repo
-Routing/ -> Proyek routing (OSPF, BGP, EIGRP)
-Switching/ -> Proyek switching (VLAN, STP, Trunking)
-Security/ -> Firewall & VPN
-Automation/ -> Script automation
-
+Routing/
+├── OSPF/
+├── BGP/
+└── EIGRP/
+Switching/
+├── VLAN/
+├── STP/
+└── Trunking/
+Security/
+├── Firewall/
+└── VPN/
+Automation/
 
 ## 🛠️ Tools yang Digunakan
 - Cisco Packet Tracer  
